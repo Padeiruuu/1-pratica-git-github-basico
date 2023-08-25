@@ -67,7 +67,7 @@ public class Main {
         return n;
     }
 
-    // Método que retorna uma lista de elementos repetidos de lista
+    // Método que retorna uma lista de elementos repetidos de list
     public static ArrayList<Integer> repetidos(ArrayList<Integer> lista) {
         ArrayList<Integer> repetidos = new ArrayList<Integer>();
         for (int i = 0; i < lista.size(); i++) {
