@@ -1,4 +1,4 @@
-# Gustavo Amaro e Enzo Zórtea
+# Prática de Git e Github Básico
 
 Vamos iniciar a trabalhar em equipe usando git e github. Assim:
 
